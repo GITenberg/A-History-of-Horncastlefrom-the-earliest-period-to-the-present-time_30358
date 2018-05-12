@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32500'
     url: http://www.gutenberg.org/2009/agents/32500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30358#A-History-of-Horncastlefrom-the-earliest-period-to-the-present-time
 gutenberg_issued: '2009-10-29'
 gutenberg_type: Text
 identifiers:
